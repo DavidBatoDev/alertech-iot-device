@@ -1,4 +1,4 @@
-# 🚨 IoT Fire Safety and Intrusion Detection System
+# Alertech IoT Fire Safety and Intrusion Detection System
 
 This project is an IoT-based Fire Safety and Intrusion Detection System that utilizes ESP32, Firebase, and real-time notifications to enhance safety and security.
 
@@ -8,14 +8,14 @@ This project is an IoT-based Fire Safety and Intrusion Detection System that uti
 - ⚙️ [Alertech Web](https://github.com/geraldsberongoy/Arduino-Hackathon-Web) — The web dashboard for the fire authorithy to monitor and respond to emergencies.
 
 
-## 📋 Features
+## Features
 - **Fire Detection:** Detects smoke levels using the MQ2 sensor.
 - **Intrusion Detection:** Uses a touch sensor to detect unauthorized access.
 - **Temperature and Humidity Monitoring:** Monitors environmental conditions with a DHT22 sensor.
 - **Real-Time Notifications:** Sends alerts to subscribed devices via Firebase Cloud Messaging (FCM) when smoke or intrusion is detected.
 - **Firestore Integration:** Updates sensor readings and system status in real-time on Firestore.
 
-## ⚙️ Prerequisites
+## Prerequisites
 - **Hardware:**
   - ESP32 Development Board
   - MQ2 Gas Sensor
@@ -34,7 +34,7 @@ This project is an IoT-based Fire Safety and Intrusion Detection System that uti
   - Firebase Authentication (Email/Password sign-in enabled)
   - API Key and Project ID from Firebase Console
 
-## 🛠️ Installation Steps
+## 🛠 Installation Steps
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/iot-fire-safety.git
