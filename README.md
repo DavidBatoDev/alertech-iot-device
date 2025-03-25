@@ -2,6 +2,12 @@
 
 This project is an IoT-based Fire Safety and Intrusion Detection System that utilizes ESP32, Firebase, and real-time notifications to enhance safety and security.
 
+## Related Repositories
+- 🌐 [Alertech Mobile App](https://github.com/DavidBatoDev/alertech-mobile-app) — The mobile app for the user an neigbors to monitor and respond to emergencies.
+- 🔥 [Alertech FCM API](https://github.com/DavidBatoDev/alertech-fcm-api) — The API for the FCM to send Notifications to all mobile app for users and neighbors to monitor alerts in real-time.
+- ⚙️ [Alertech Web](https://github.com/geraldsberongoy/Arduino-Hackathon-Web) — The web dashboard for the fire authorithy to monitor and respond to emergencies.
+
+
 ## 📋 Features
 - **Fire Detection:** Detects smoke levels using the MQ2 sensor.
 - **Intrusion Detection:** Uses a touch sensor to detect unauthorized access.
